@@ -3,4 +3,4 @@ project(List_sort C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(List_sort List_sort.c)
+add_executable(List_sort sorting_number_list.c)
